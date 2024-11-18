@@ -32,7 +32,7 @@
     "href": "about.html#oss",
     "title": "Hiroaki Yutani / 湯谷啓明",
     "section": "OSS",
-    "text": "OSS\n\n個人で開発している主な OSS\n\ngghighlight \n\nレポジトリ / 紹介スライド（日本語） / 紹介スライド（英語）\n複雑すぎて見づらいグラフの一部をハイライトする R パッケージ\n\nsavvy \n\nレポジトリ / 紹介スライド（日本語） / ドキュメント（英語）\nR から Rust を使うためのフレームワーク\n\nstring2path (R, Rust) \n\nレポジトリ\nフォントをアウトライン化して R 上でプロット可能にするパッケージ\n\nvellogd \n\nレポジトリ / 紹介記事（日本語）\nWebGPU をバックエンドとする、R のグラフィックス API を実装した 2D レンダリングデバイス\n\n\n\n\n開発に関わっている主な OSS\n\nggplot2 \n\nレポジトリ\nR でのデータ可視化のデファクトスタンダードのパッケージ\n9人いるコア開発者の1人"
+    "text": "OSS\n\n個人で開発している主な OSS\n\ngghighlight \n\nレポジトリ / 紹介スライド（日本語） / 紹介スライド（英語）\n複雑すぎて見づらいグラフの一部をハイライトする R パッケージ\n\nsavvy \n\nレポジトリ / 紹介スライド（日本語） / ドキュメント（英語）\nR から Rust を使うためのフレームワーク\n\nstring2path \n\nレポジトリ\nフォントをアウトライン化して R 上でプロット可能にするパッケージ\n\nvellogd \n\nレポジトリ / 紹介記事（日本語）\nR のグラフィックス API を実装した 2D レンダリングデバイス、WebGPU バックエンド\n\n\n\n\n開発に関わっている主な OSS\n\nggplot2 \n\nレポジトリ\nR でのデータ可視化のデファクトスタンダードのパッケージ\n9人いるコア開発者の1人"
   },
   {
     "objectID": "about.html#presentations",
