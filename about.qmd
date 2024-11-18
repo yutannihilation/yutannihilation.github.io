@@ -5,7 +5,7 @@ format:
     theme: ["default", "styles.scss"]
 ---
 
-![](./images/icon.jpg){width=40% fig-align="center"}
+![](./images/icon.jpg){width=30% fig-align="center"}
 
 ## Profile
 
