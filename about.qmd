@@ -97,6 +97,7 @@ format:
 * [dplyr 再入門（基本編）](https://speakerdeck.com/yutannihilation/dplyrzai-ru-men-ji-ben-bian) / [dplyr 再入門（Colwise編）](https://speakerdeck.com/yutannihilation/dplyrzai-ru-men-colwisebian) / [dplyr 再入門（Tidyeval編）](https://speakerdeck.com/yutannihilation/dplyrzai-ru-men-tidyevalbian)（2017、第60回Tokyo.R）
 * [dplyrのselectとmutateのセマンティクスの違い](https://speakerdeck.com/yutannihilation/dplyrfalseselecttomutatefalsesemanteikusufalsewei-i)（2017、「R を用いたデータハンドリングと可視化」ハンズオン）
 * [tidyr 1.0.0 の新機能 `pivot_*()`](https://speakerdeck.com/yutannihilation/tidyr-pivot)（2019、第79回Tokyo.R）
+* [rayshader 入門](https://speakerdeck.com/yutannihilation/rayshader-tokyor88) （2020、第88回Tokyo.R）
 * [tidyverse は与えるだけでよい。支配されるという特権をだ！](https://www.youtube.com/watch?v=8iF-483Pf8w) （2022、Japan.R）
 * [Positron 最速入門](https://yutani.quarto.pub/positron-first-look/#/title-slide)（2024、第114回Tokyo.R）
 
@@ -151,3 +152,10 @@ format:
 
 * [ガスコンロの楽器](https://www.instagram.com/p/CiEKYZNhp6Z/)
 * [ヘボコン初回大会](https://www.youtube.com/watch?v=YCx_scvzxNY) 出場
+
+## SNS
+
+* Bluesky: [日本語](https://bsky.app/profile/yutannihilation.bsky.social) / [英語](https://bsky.app/profile/yutannihilation-en.bsky.social)
+* Fediverse: [英語](https://fosstodon.org/@yutannihilation)
+* Twitter (現 X): [日本語](https://x.com/yutannihilation)
+* Instagram: [英語](https://www.instagram.com/yutanoise/)（モジュラーシンセ用）
