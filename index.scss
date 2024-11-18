@@ -1,9 +1,12 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&family=Noto+Sans+JP:wght@600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&display=swap');
 
-$font-family-sans-serif: "Noto Sans JP";
+$font-family-sans-serif: "Fira Code";
 $font-family-monospace: "Fira Code";
+
+$primary: #45b2c6;
+$body-bg: $primary;
 
 /*-- scss:rules --*/
 

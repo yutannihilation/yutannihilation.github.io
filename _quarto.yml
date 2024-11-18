@@ -4,16 +4,11 @@ project:
 website:
   title: "Hiroaki Yutani"
   navbar:
+    title: false
+    logo-href: index.qmd
+    logo: images/icon.jpg
+    logo-alt: home
+    search: false
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+      - text: about
+        href: about.qmd

@@ -1,5 +1,16 @@
 ---
-title: "About"
+title: "Hiroaki Yutani / 湯谷啓明"
+format:
+  html:
+    theme: ["default", "styles.scss"]
 ---
 
-About this site
+![](./images/icon.jpg){width=40% fig-align="center"}
+
+## Profile
+
+* 大阪出身京都育ち。
+* 
+
+## Publications
+

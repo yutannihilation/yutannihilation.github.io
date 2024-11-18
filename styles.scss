@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Noto+Sans+JP:wght@400&display=swap');
+
+$font-family-sans-serif: "Fira Code", "Noto Sans JP";
+$font-family-monospace: "Fira Code";
+
+$primary: #45b2c6;
+$navbar-bg: $primary;
+$body-bg: lighten($primary, 30%);
+
+/*-- scss:rules --*/
+
+#quarto-header nav {
+    padding-left: 20%;
+}
+
+#quarto-header nav div#navbarCollapse ul li {
+    margin: 0 2em 0 2em;
+}
