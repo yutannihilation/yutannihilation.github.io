@@ -39,7 +39,7 @@
     "href": "about.html#oss",
     "title": "Hiroaki Yutani / 湯谷啓明",
     "section": "OSS",
-    "text": "OSS\n\n個人で開発している主な OSS\n\ngghighlight \n\nレポジトリ / 紹介スライド（日本語） / 紹介スライド（英語）\n複雑すぎて見づらいグラフの一部をハイライトする R パッケージ\n\nsavvy \n\nレポジトリ / 紹介スライド（日本語） / ドキュメント（英語）\nR から Rust を使うためのフレームワーク\n\nstring2path \n\nレポジトリ\nフォントをアウトライン化して R 上でプロット可能にするパッケージ\n\nvellogd \n\nレポジトリ / 紹介記事（日本語）\nR のグラフィックス API を実装した 2D レンダリングデバイス。WebGPU を使う。\n\nestatapi \n\nレポジトリ\ne-Stat API を使うための R パッケージ\n\nkokudosuuchi \n\nレポジトリ\n国土数値情報 Web API（現在はサービス停止）を使うための R パッケージ\n\n\n\n\n開発に関わっている主な OSS\n\nggplot2 \n\nレポジトリ\nR でのデータ可視化のデファクトスタンダードのパッケージ\n9人いるコア開発者の1人（最近はあまり活動できていない）\n\nconflr \n\nレポジトリ / 紹介記事（日本語） / 紹介記事（英語）\nR Markdown を Confluence に変換してレポーティングを自動化するパッケージ\nLINE 社内で業務で作ったものを OSS として公開"
+    "text": "OSS\n\n個人で開発している主な OSS\n\ngghighlight \n\nレポジトリ / 紹介スライド（日本語） / 紹介スライド（英語）\n複雑すぎて見づらいグラフから見たいデータだけをハイライトするための R パッケージ\n\nsavvy \n\nレポジトリ / 紹介スライド（日本語） / ドキュメント（英語）\nR から Rust を使うためのフレームワーク\n\nstring2path \n\nレポジトリ\nフォントをアウトライン化して R 上でプロット可能にするパッケージ\n\nvellogd \n\nレポジトリ / 紹介記事（日本語）\nR のグラフィックス API を実装した 2D レンダリングデバイス。WebGPU を使う。\n\nestatapi \n\nレポジトリ\ne-Stat API を使うための R パッケージ\n\nkokudosuuchi \n\nレポジトリ\n国土数値情報 Web API（現在はサービス停止）を使うための R パッケージ\n\n\n\n\n開発に関わっている主な OSS\n\nggplot2 \n\nレポジトリ\nR でのデータ可視化のデファクトスタンダードのパッケージ\n9人いるコア開発者の1人（最近はあまり活動できていない）\n\nconflr \n\nレポジトリ / 紹介記事（日本語） / 紹介記事（英語）\nR Markdown を Confluence に変換してレポーティングを自動化するパッケージ\nLINE 社内で業務で作ったものを OSS として公開"
   },
   {
     "objectID": "about.html#presentations",
