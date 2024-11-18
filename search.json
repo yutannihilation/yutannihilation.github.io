@@ -11,13 +11,41 @@
     "href": "about.html#profile",
     "title": "Hiroaki Yutani / 湯谷啓明",
     "section": "Profile",
-    "text": "Profile\n\n大阪出身京都育ち。"
+    "text": "Profile\n\n大阪出身京都育ち。\n家電を電子楽器に改造する団体の活動にも参加。"
+  },
+  {
+    "objectID": "about.html#career",
+    "href": "about.html#career",
+    "title": "Hiroaki Yutani / 湯谷啓明",
+    "section": "Career",
+    "text": "Career\n\n2012/4～2018/3 サイボウズ株式会社: SRE。\n2018/3～2024/7 LINE ヤフー株式会社: ソフトウェアエンジニア、データサイエンティスト。チームのマネージャーも経験。"
+  },
+  {
+    "objectID": "about.html#hard-skills",
+    "href": "about.html#hard-skills",
+    "title": "Hiroaki Yutani / 湯谷啓明",
+    "section": "Hard Skills",
+    "text": "Hard Skills\n\nプログラミング言語\n\n得意: R / Rust / SQL (SparkSQL, Presto など)\nある程度わかる: Python / Shell script, Sed, AWK / GLSL, WGSL / Go\n\n開発ツール、ミドルウェアなど\n\n得意: Git / GitHub Actions / Airflow\nある程度わかる: nginx / Docker / Linux (Debian 系)\n\nデータ分析\n\nA/B テストの設計・分析\nログ設計\nデータ可視化\n\nBI ツール\n\nTableau"
+  },
+  {
+    "objectID": "about.html#oss",
+    "href": "about.html#oss",
+    "title": "Hiroaki Yutani / 湯谷啓明",
+    "section": "OSS",
+    "text": "OSS\n\n個人で開発している主な OSS\n\ngghighlight \n\nレポジトリ / 紹介スライド（日本語） / 紹介スライド（英語）\n複雑すぎて見づらいグラフの一部をハイライトする R パッケージ\n\nsavvy \n\nレポジトリ / 紹介スライド（日本語） / ドキュメント（英語）\nR から Rust を使うためのフレームワーク\n\nstring2path (R, Rust) \n\nレポジトリ\nフォントをアウトライン化して R 上でプロット可能にするパッケージ\n\nvellogd \n\nレポジトリ / 紹介記事（日本語）\nWebGPU をバックエンドとする、R のグラフィックス API を実装した 2D レンダリングデバイス\n\n\n\n\n開発に関わっている主な OSS\n\nggplot2 \n\nレポジトリ\nR でのデータ可視化のデファクトスタンダードのパッケージ\n9人いるコア開発者の1人"
+  },
+  {
+    "objectID": "about.html#presentations",
+    "href": "about.html#presentations",
+    "title": "Hiroaki Yutani / 湯谷啓明",
+    "section": "Presentations",
+    "text": "Presentations\n\n国際カンファレンス\n\nUseR! 2018 ポスター発表 (報告のブログ記事)\nrstudio::conf 2019 ポスター発表 (gghighlight: Highlight ggplot2 with Predicates)\n\n\n\n国内での主な発表\n\nggplot2 再入門\ndplyr 再入門（基本編） / dplyr 再入門（Colwise編） / dplyr 再入門（Tidyeval編）\ndplyrのselectとmutateのセマンティクスの違い\ntidyr 1.0.0 の新機能 pivot_*()\ntidyverse は与えるだけでよい。支配されるという特権をだ！"
   },
   {
     "objectID": "about.html#publications",
     "href": "about.html#publications",
     "title": "Hiroaki Yutani / 湯谷啓明",
     "section": "Publications",
-    "text": "Publications"
+    "text": "Publications\n\n『RユーザのためのRStudio[実践]入門』（共著、技術評論社　2021）\n『Rによる地理空間データ解析入門』（Chris Brunsdon ほか著、共訳、共立出版　2018）\n『Rプログラミング本格入門』（Kun Ren 著、共訳、共立出版　2017）\n『Rによるスクレイピング入門』（共著、シーアンドアール研究所　2017）"
   }
 ]
