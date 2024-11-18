@@ -11,7 +11,8 @@ format:
 ## Profile
 
 * 大阪生まれ京都育ち。
-* IT 業界でデータ利活用に関わる幅広い業務に従事。社会の役に立つことに興味がある。
+* IT 業界でデータ利活用に関わる幅広い業務に従事。
+* 何が正解か自明ではない問題に取り組むことに興味がある。将来的には、何らかのかたちで土木・防災に関わる仕事がしたい。
 * 電子楽器が好き。[家電を電子楽器に改造する団体](https://www.electronicosfantasticos.com/)の活動にも参加。
 
 ## Career
@@ -37,6 +38,9 @@ format:
 ## Soft Skills
 
 * 情報収集
+  * 仕様や開発状況を調査して問題を解決する
+  * 技術トレンドを概観する
+  * 議論の違いを整理してすり合わせる
 * 技術的なトピックについて、わかりやすく文章を書いたりプレゼンをしたりする
 * 英語で開発者とやりとりする
 
@@ -98,8 +102,8 @@ format:
 
 その他:
 
-* [SpeakerDeck](https://speakerdeck.com/yutannihilation/)
-* [Quarto Pub](https://yutani.quarto.pub/)
+* [SpeakerDeck の投稿一覧](https://speakerdeck.com/yutannihilation/)
+* [Quarto Pub の投稿一覧](https://yutani.quarto.pub/)
 
 ## Publications
 
@@ -124,8 +128,8 @@ format:
 
 その他:
 
-* [Qiita](https://qiita.com/yutannihilation)
-* [Zenn](https://zenn.dev/yutannihilation)
+* [Qiita の投稿一覧](https://qiita.com/yutannihilation)
+* [Zenn の投稿一覧](https://zenn.dev/yutannihilation)
 
 ### 主な英語記事
 
@@ -146,3 +150,4 @@ format:
 ### それ以外
 
 * [ガスコンロの楽器](https://www.instagram.com/p/CiEKYZNhp6Z/)
+* [ヘボコン初回大会](https://www.youtube.com/watch?v=YCx_scvzxNY) 出場
