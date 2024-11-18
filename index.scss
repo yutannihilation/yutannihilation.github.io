@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&family=Noto+Sans+JP:wght@600;900&display=swap');
+
+$font-family-sans-serif: "Noto Sans JP";
+$font-family-monospace: "Fira Code";
+
+/*-- scss:rules --*/
+
+div.grid {
+    align-items: center;
+    height: 100%;
+    font-size: 3em;
+}
+
+ul {
+    list-style-type: circle;
+    color: gray;
+}
+
+ul a { color: black; }
+ul a:hover { color: #1B4E57; }
+
+// body {
+//     animation: clipmove 10s ease-in infinite;
+// }
+
+@keyframes clipmove {
+    0% {
+        clip-path: circle(10% at 0 0);
+    }
+
+    50% {
+        clip-path: circle(80% at 100% 100%);
+    }
+}

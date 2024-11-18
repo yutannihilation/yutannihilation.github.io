@@ -1,0 +1,21 @@
+---
+page-layout: full
+navbar: false
+format:
+  html:
+    theme: ["default", "index.scss"]
+    backgroundcolor: "#45b2c6"
+---
+
+::: {.grid}
+
+::: {.g-col-6 .align-middle}
+![](./images/icon.jpg){width=30% fig-align="center"}
+:::
+
+::: {.g-col-6 .align-middle}
+* [About](./about.qmd)
+* [GitHub](https://github.com/yutannihilation/)
+* [Blog](https://yutani.rbind.io/)
+* [ブログ（日本語）](https://notchained.hatenablog.com/)
+:::
