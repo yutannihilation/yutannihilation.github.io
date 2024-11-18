@@ -8,6 +8,7 @@ $font-family-monospace: "Fira Code";
 $primary: #45b2c6;
 $navbar-bg: $primary;
 $body-bg: lighten($primary, 30%);
+$link-color: darken($primary, 12%);
 
 /*-- scss:rules --*/
 

@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Hiroaki Yutani"
+  twitter-card:
+    image: images/icon.jpg
   navbar:
     title: false
     logo-href: index.qmd

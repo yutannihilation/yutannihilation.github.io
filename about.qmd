@@ -1,5 +1,6 @@
 ---
 title: "Hiroaki Yutani / 湯谷啓明"
+toc: true
 format:
   html:
     theme: ["default", "styles.scss"]
@@ -9,17 +10,39 @@ format:
 
 ## Profile
 
-* 大阪出身京都育ち。
-* 
+* 大阪生まれ京都育ち。
+* IT 業界でデータ利活用に関わる幅広い業務に従事。社会の役に立つことに興味がある。
+* 電子楽器が好き。[家電を電子楽器に改造する団体](https://www.electronicosfantasticos.com/)の活動にも参加。
 
 ## Career
 
-* 2012/4～2018/3 サイボウズ株式会社: SRE。
-* 2018/3～2024/7 LINE ヤフー株式会社: ソフトウェアエンジニア、データサイエンティスト。チームのマネージャーも経験。
+* 2012/4～2018/3　サイボウズ株式会社: SRE。
+* 2018/3～2024/7　LINE ヤフー株式会社: ソフトウェアエンジニア、データサイエンティスト。チームのマネージャーも経験。
+
+## Hard Skills
+
+* プログラミング言語
+  * 得意: R / Rust / SQL (SparkSQL, Presto など)
+  * ある程度わかる: Python / Shell script, Sed, AWK / GLSL, WGSL / Go
+* 開発ツール、ミドルウェアなど
+  * 得意: Git / GitHub Actions / Airflow
+  * ある程度わかる: nginx / Docker / Linux (Debian 系)
+* データ分析
+  * A/B テストの設計・分析
+  * ログ設計
+  * データ可視化
+* BI ツール
+  * Tableau
+
+## Soft Skills
+
+* 情報収集
+* 技術的なトピックについて、わかりやすく文章を書いたりプレゼンをしたりする
+* 英語で開発者とやりとりする
 
 ## OSS
 
-### 開発している主な OSS
+### 個人で開発している主な OSS
 
 * gghighlight ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/gghighlight)
   * [レポジトリ](https://github.com/yutannihilation/gghighlight) / [紹介スライド（日本語）](https://yutani.quarto.pub/tokyor-109-gghighlight) / [紹介スライド（英語）](https://speakerdeck.com/yutannihilation/introduction-to-gghighlight)
@@ -29,22 +52,54 @@ format:
   * [レポジトリ](https://github.com/yutannihilation/savvy) / [紹介スライド（日本語）](https://yutani.quarto.pub/intro-to-savvy-ja/) / [ドキュメント（英語）](https://yutannihilation.github.io/savvy/guide/)
   * R から Rust を使うためのフレームワーク
 
-* ggplot2 ![GitHub Repo stars](https://img.shields.io/github/stars/tidyverse/ggplot2)（9人いるコア開発者の1人）
-  * [レポジトリ](https://github.com/tidyverse/ggplot2)
-  * R でのデータ可視化のデファクトスタンダードのパッケージ
-
-* string2path (R, Rust) ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/string2path)
+* string2path ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/string2path)
   * [レポジトリ](https://github.com/yutannihilation/string2path)
   * フォントをアウトライン化して R 上でプロット可能にするパッケージ
 
 * vellogd ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/vellogd-r)
   * [レポジトリ](https://github.com/yutannihilation/vellogd) / [紹介記事（日本語）](https://notchained.hatenablog.com/entry/2024/10/28/220354)
-  * WebGPU をバックエンドとする、R のグラフィックス API を実装した 2D レンダリングデバイス
-  
+  * R のグラフィックス API を実装した 2D レンダリングデバイス。WebGPU を使う。
+
+* estatapi ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/estatapi)
+  * [レポジトリ](https://github.com/yutannihilation/estatapi)
+  * e-Stat API を使うための R パッケージ
+
+* kokudosuuchi ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/kokudosuuchi)
+  * [レポジトリ](https://github.com/yutannihilation/kokudosuuchi)
+  * 国土数値情報 Web API（現在はサービス停止）を使うための R パッケージ
+
+### 開発に関わっている主な OSS
+
+* ggplot2 ![GitHub Repo stars](https://img.shields.io/github/stars/tidyverse/ggplot2)
+  * [レポジトリ](https://github.com/tidyverse/ggplot2)
+  * R でのデータ可視化のデファクトスタンダードのパッケージ
+  * 9人いるコア開発者の1人（最近はあまり活動できていない）
+
+* conflr ![GitHub Repo stars](https://img.shields.io/github/stars/line/conflr)
+  * [レポジトリ](https://github.com/line/conflr) / [紹介記事（日本語）](https://engineering.linecorp.com/ja/blog/conflr-published) / [紹介記事（英語）](https://engineering.linecorp.com/en/blog/conflr-published)
+  * R Markdown を Confluence に変換してレポーティングを自動化するパッケージ
+  * LINE 社内で業務で作ったものを OSS として公開
 
 ## Presentations
 
+### 国際カンファレンス
+
+* UseR! 2018 ポスター発表 ([報告のブログ記事](https://engineering.linecorp.com/ja/blog/use-r-2018-internal-r-liner))
 * rstudio::conf 2019 ポスター発表 ([gghighlight: Highlight ggplot2 with Predicates](https://notchained.hatenablog.com/entry/2019/02/09/133106))
+
+### 国内での主な発表
+
+* [ggplot2 再入門](https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men)（2015、社内勉強会）
+* [dplyr 再入門（基本編）](https://speakerdeck.com/yutannihilation/dplyrzai-ru-men-ji-ben-bian) / [dplyr 再入門（Colwise編）](https://speakerdeck.com/yutannihilation/dplyrzai-ru-men-colwisebian) / [dplyr 再入門（Tidyeval編）](https://speakerdeck.com/yutannihilation/dplyrzai-ru-men-tidyevalbian)（2017、第60回Tokyo.R）
+* [dplyrのselectとmutateのセマンティクスの違い](https://speakerdeck.com/yutannihilation/dplyrfalseselecttomutatefalsesemanteikusufalsewei-i)（2017、「R を用いたデータハンドリングと可視化」ハンズオン）
+* [tidyr 1.0.0 の新機能 `pivot_*()`](https://speakerdeck.com/yutannihilation/tidyr-pivot)（2019、第79回Tokyo.R）
+* [tidyverse は与えるだけでよい。支配されるという特権をだ！](https://www.youtube.com/watch?v=8iF-483Pf8w) （2022、Japan.R）
+* [Positron 最速入門](https://yutani.quarto.pub/positron-first-look/#/title-slide)（2024、第114回Tokyo.R）
+
+その他:
+
+* [SpeakerDeck](https://speakerdeck.com/yutannihilation/)
+* [Quarto Pub](https://yutani.quarto.pub/)
 
 ## Publications
 
@@ -52,3 +107,42 @@ format:
 * 『[Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/book/b10003125.html)』（Chris Brunsdon ほか著、共訳、共立出版　2018）
 * 『[Rプログラミング本格入門](https://www.kyoritsu-pub.co.jp/book/b10003891.html)』（Kun Ren 著、共訳、共立出版　2017）
 * 『[Rによるスクレイピング入門](https://www.c-r.com/book/detail/1105)』（共著、シーアンドアール研究所　2017）
+
+## Blog
+
+### 主な日本語記事
+
+日本語技術ブログ: <https://notchained.hatenablog.com/>
+
+* [ALTREP 徹底入門](https://notchained.hatenablog.com/entry/2024/05/02/000204)（2024）: いまだに公式ドキュメントがない R の ALTREP という仕組みについての解説
+* [2023年、Rustグラフィックス界隈（というかwgpu界隈）への期待](https://notchained.hatenablog.com/entry/2023/01/30/003200)（2023）: Rust のグラフィックス界隈のトレンドについての概説
+* [R 4.2でWindowsもUTF-8になることとその他細かい話](https://notchained.hatenablog.com/entry/2021/12/19/024803)（2021）: R 4.2 に入る大きな変更についての技術的な解説
+* [RでGIS系のラスタデータを扱うのにraster、stars、terraのどれを使えばいいの？問題についてのメモ](https://notchained.hatenablog.com/entry/2020/09/20/205301)（2020）: 乱立するラスタデータ系のパッケージの現状についての解説
+* [メモ：「道路を方角ごとに塗り分けると、その街のでき方がわかる :: デイリーポータルZ」を地理院地図ベクトルタイルとggplot2で](https://notchained.hatenablog.com/entry/2020/08/15/173158)（2020）: 道路の方角に基づいて線を色付けする、というデイリーポータル Z の記事を R でやる方法の解説
+* [RでGISをやるときにはsfパッケージ、という世の中になるらしい。](https://notchained.hatenablog.com/entry/2017/01/06/213333)（2017）: 今では R で GIS データを扱う時の定番パッケージになっている sf パッケージの紹介
+
+
+その他:
+
+* [Qiita](https://qiita.com/yutannihilation)
+* [Zenn](https://zenn.dev/yutannihilation)
+
+### 主な英語記事
+
+英語ブログ: <https://yutani.rbind.io/>
+
+* [Plot geom_sf() On OpenStreetMap Tiles](https://yutani.rbind.io/post/2018-06-09-plot-osm-tiles/)（2018）: OpenStreetMap のタイル画像をプロットする実装方法の解説
+* [R, Rust, Protect, And Unwinding](https://yutani.rbind.io/post/r-rust-protect-and-unwinding/)（2023）: R の GC の仕組みと、それを Rust から扱う困難についての説明
+* [How To Use Winit With R (Or How To Run Winit On A Non-Main Thread)](https://yutani.rbind.io/post/winit-and-r/)（2024）: ウィンドウを扱うための Rust の crate、winit の使い方についての説明
+
+## Others
+
+### IT 系
+
+* [R の最新情報を週1回届ける YouTube チャンネル](https://www.youtube.com/channel/UCDHzgi5BGU5F-LXxQIIOyDw) の運営
+  * 視聴者用の Discord の運営
+* R 関連の質問ができる Slack・[r-wakalang](https://speakerdeck.com/yutannihilation/how-i-learned-to-stop-worrying-and-ask-1) での質問への回答やトラブル対応
+
+### それ以外
+
+* [ガスコンロの楽器](https://www.instagram.com/p/CiEKYZNhp6Z/)

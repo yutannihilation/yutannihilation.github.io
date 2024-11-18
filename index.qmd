@@ -8,11 +8,7 @@ format:
 
 ::: {.grid}
 
-::: {.g-col-2}
-
-:::
-
-::: {.g-col-4}
+::: {.g-col-4 .g-start-3}
 ![](./images/icon.jpg){width=40% fig-align="center"}
 :::
 
@@ -22,7 +18,5 @@ format:
 * [blog (en)](https://yutani.rbind.io/)
 * [blog (ja)](https://notchained.hatenablog.com/)
 :::
-
-::: {.g-col-2}
 
 :::
