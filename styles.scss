@@ -18,3 +18,8 @@ $body-bg: lighten($primary, 30%);
 #quarto-header nav div#navbarCollapse ul li {
     margin: 0 2em 0 2em;
 }
+
+.about-icon-image {
+    border-radius: 50% !important;
+    margin: 1em;
+}

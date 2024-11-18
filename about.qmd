@@ -5,12 +5,50 @@ format:
     theme: ["default", "styles.scss"]
 ---
 
-![](./images/icon.jpg){width=30% fig-align="center"}
+![](./images/icon.jpg){.about-icon-image width=30% fig-align="center"}
 
 ## Profile
 
 * 大阪出身京都育ち。
 * 
 
+## Career
+
+* 2012/4～2018/3 サイボウズ株式会社: SRE。
+* 2018/3～2024/7 LINE ヤフー株式会社: ソフトウェアエンジニア、データサイエンティスト。チームのマネージャーも経験。
+
+## OSS
+
+### 開発している主な OSS
+
+* gghighlight ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/gghighlight)
+  * [レポジトリ](https://github.com/yutannihilation/gghighlight) / [紹介スライド（日本語）](https://yutani.quarto.pub/tokyor-109-gghighlight) / [紹介スライド（英語）](https://speakerdeck.com/yutannihilation/introduction-to-gghighlight)
+  * 複雑すぎて見づらいグラフの一部をハイライトする R パッケージ
+
+* savvy ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/savvy)
+  * [レポジトリ](https://github.com/yutannihilation/savvy) / [紹介スライド（日本語）](https://yutani.quarto.pub/intro-to-savvy-ja/) / [ドキュメント（英語）](https://yutannihilation.github.io/savvy/guide/)
+  * R から Rust を使うためのフレームワーク
+
+* ggplot2 ![GitHub Repo stars](https://img.shields.io/github/stars/tidyverse/ggplot2)（9人いるコア開発者の1人）
+  * [レポジトリ](https://github.com/tidyverse/ggplot2)
+  * R でのデータ可視化のデファクトスタンダードのパッケージ
+
+* string2path (R, Rust) ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/string2path)
+  * [レポジトリ](https://github.com/yutannihilation/string2path)
+  * フォントをアウトライン化して R 上でプロット可能にするパッケージ
+
+* vellogd ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/vellogd-r)
+  * [レポジトリ](https://github.com/yutannihilation/vellogd) / [紹介記事（日本語）](https://notchained.hatenablog.com/entry/2024/10/28/220354)
+  * WebGPU をバックエンドとする、R のグラフィックス API を実装した 2D レンダリングデバイス
+  
+
+## Presentations
+
+* rstudio::conf 2019 ポスター発表 ([gghighlight: Highlight ggplot2 with Predicates](https://notchained.hatenablog.com/entry/2019/02/09/133106))
+
 ## Publications
 
+* 『[RユーザのためのRStudio\[実践\]入門](https://gihyo.jp/book/2021/978-4-297-12170-9)』（共著、技術評論社　2021）
+* 『[Rによる地理空間データ解析入門](https://www.kyoritsu-pub.co.jp/book/b10003125.html)』（Chris Brunsdon ほか著、共訳、共立出版　2018）
+* 『[Rプログラミング本格入門](https://www.kyoritsu-pub.co.jp/book/b10003891.html)』（Kun Ren 著、共訳、共立出版　2017）
+* 『[Rによるスクレイピング入門](https://www.c-r.com/book/detail/1105)』（共著、シーアンドアール研究所　2017）
