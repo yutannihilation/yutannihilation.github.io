@@ -34,6 +34,8 @@ format:
   * データ可視化
 * BI ツール
   * Tableau
+* その他
+  * 簡単な電子工作
 
 ## Soft Skills
 
@@ -50,7 +52,7 @@ format:
 
 * gghighlight ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/gghighlight)
   * [レポジトリ](https://github.com/yutannihilation/gghighlight) / [紹介スライド（日本語）](https://yutani.quarto.pub/tokyor-109-gghighlight) / [紹介スライド（英語）](https://speakerdeck.com/yutannihilation/introduction-to-gghighlight)
-  * 複雑すぎて見づらいグラフの一部をハイライトする R パッケージ
+  * 複雑すぎて見づらいグラフから見たいデータだけをハイライトするための R パッケージ
 
 * savvy ![GitHub Repo stars](https://img.shields.io/github/stars/yutannihilation/savvy)
   * [レポジトリ](https://github.com/yutannihilation/savvy) / [紹介スライド（日本語）](https://yutani.quarto.pub/intro-to-savvy-ja/) / [ドキュメント（英語）](https://yutannihilation.github.io/savvy/guide/)
@@ -148,10 +150,19 @@ format:
   * 視聴者用の Discord の運営
 * R 関連の質問ができる Slack・[r-wakalang](https://speakerdeck.com/yutannihilation/how-i-learned-to-stop-worrying-and-ask-1) での質問への回答やトラブル対応
 
-### それ以外
+### その他の面白い活動
 
-* [ガスコンロの楽器](https://www.instagram.com/p/CiEKYZNhp6Z/)
-* [ヘボコン初回大会](https://www.youtube.com/watch?v=YCx_scvzxNY) 出場
+#### ガスコンロを改造した電子楽器の開発
+
+{{< video https://www.youtube.com/watch?v=EyTe-7nd_JQ width="400" height="300" >}}
+
+#### ヘボコン初回大会出場
+
+{{< video https://www.youtube.com/watch?v=YCx_scvzxNY width="400" height="300" >}}
+
+#### 大学の卒業式の仮装
+
+![](./images/googleeye-iii.jpg){height="300"}
 
 ## SNS
 
