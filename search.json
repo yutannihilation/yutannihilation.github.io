@@ -25,7 +25,7 @@
     "href": "about.html#hard-skills",
     "title": "Hiroaki Yutani / 湯谷啓明",
     "section": "Hard Skills",
-    "text": "Hard Skills\n\nプログラミング言語\n\n得意: R / Rust / SQL (SparkSQL, Presto など)\nある程度わかる: Python / Shell script, Sed, AWK / GLSL, WGSL / Go\n\n開発ツール、ミドルウェアなど\n\n得意: Git / GitHub Actions / Airflow\nある程度わかる: nginx / Docker / Linux (Debian 系)\n\nデータ分析\n\nA/B テストの設計・分析\nログ設計\nデータ可視化\n\nBI ツール\n\nTableau"
+    "text": "Hard Skills\n\nプログラミング言語\n\n得意: R / Rust / SQL (SparkSQL, Presto など)\nある程度わかる: Python / Shell script, Sed, AWK / GLSL, WGSL / Go\n\n開発ツール、ミドルウェアなど\n\n得意: Git / GitHub Actions / Airflow\nある程度わかる: nginx / Docker / Linux (Debian 系)\n\nデータ分析\n\nA/B テストの設計・分析\nログ設計\nデータ可視化\n\nBI ツール\n\nTableau\n\nその他\n\n簡単な電子工作"
   },
   {
     "objectID": "about.html#soft-skills",
@@ -67,7 +67,7 @@
     "href": "about.html#others",
     "title": "Hiroaki Yutani / 湯谷啓明",
     "section": "Others",
-    "text": "Others\n\nIT 系\n\nR の最新情報を週1回届ける YouTube チャンネル の運営\n\n視聴者用の Discord の運営\n\nR 関連の質問ができる Slack・r-wakalang での質問への回答やトラブル対応\n\n\n\nそれ以外\n\nガスコンロの楽器\nヘボコン初回大会 出場"
+    "text": "Others\n\nIT 系\n\nR の最新情報を週1回届ける YouTube チャンネル の運営\n\n視聴者用の Discord の運営\n\nR 関連の質問ができる Slack・r-wakalang での質問への回答やトラブル対応\n\n\n\nその他の面白い活動\n\nガスコンロを改造した電子楽器の開発\n\n\n\nヘボコン初回大会出場\n\n\n\n大学の卒業式の仮装"
   },
   {
     "objectID": "about.html#sns",
