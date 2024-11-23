@@ -13,7 +13,7 @@ $body-bg: $primary;
 div.grid {
     align-items: center;
     height: 100%;
-    font-size: 3em;
+    font-size: 2.8em;
 }
 
 ul {
@@ -23,6 +23,10 @@ ul {
 
 ul a { color: black; }
 ul a:hover { color: #1B4E57; }
+
+img {
+    padding-top: 2em;
+}
 
 // body {
 //     animation: clipmove 10s ease-in infinite;

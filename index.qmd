@@ -8,11 +8,11 @@ format:
 
 ::: {.grid}
 
-::: {.g-col-4 .g-start-3}
+::: {.g-col-12 .g-start-md-3 .g-col-md-4}
 ![](./images/icon.jpg){width=40% fig-align="center"}
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-sm-6}
 * [about](./about.qmd)
 * [github](https://github.com/yutannihilation/)
 * [blog (en)](https://yutani.rbind.io/)
