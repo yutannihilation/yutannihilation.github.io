@@ -13,8 +13,10 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-sm-6}
-* [about](./about.qmd)
 * [github](https://github.com/yutannihilation/)
+* [linkedin](https://www.linkedin.com/in/yutannihilation)
+* [MIERUNE, Inc.](https://www.mierune.co.jp/)
+* [about (ja)](./about.qmd)
 * [blog (en)](https://yutani.rbind.io/)
 * [blog (ja)](https://notchained.hatenablog.com/)
 :::
